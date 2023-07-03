@@ -5,7 +5,7 @@ This git repository contains everything you need to learn and master Natural Lan
 
 NUMPY
 ---------------------------------------
-0. [Learn to write a NumPy tutorial](content/tutorial-style-guide.md): our style guide for writing tutorials.
+0. [X][X] [Learn to write a NumPy tutorial](content/tutorial-style-guide.md): our style guide for writing tutorials.
 1. [Tutorial: Linear algebra on n-dimensional arrays](content/tutorial-svd.md)
 2. [Tutorial: Determining Moore's Law with real data in NumPy](content/mooreslaw-tutorial.md)
 3. [Tutorial: Saving and sharing your NumPy arrays](content/save-load-arrays.md)
