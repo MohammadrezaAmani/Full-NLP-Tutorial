@@ -26,7 +26,7 @@ PANDAS
 |--|--|--|--|
 | 0 | [ ] | [x] | [quick pandas tutorial](https://github.com/chiphuyen/just-pandas-things/blob/master/just-pandas-things.ipynb)|
 | 1 | [ ] | [ ] | [pandas examples](https://github.com/codebasics/py/tree/master/pandas) 
-| 2 | [ ] | [ ] | [pandas workshop](https://github.com/stefmolin/pandas-workshop/) see [slides](https://github.com/stefmolin/pandas-workshop/tree/main/slides) folder
+| 2 | [ ] | [x] | [pandas workshop](https://github.com/stefmolin/pandas-workshop/) see [slides](https://github.com/stefmolin/pandas-workshop/tree/main/slides) folder
 | 3 | [ ] | [ ] | [pandas data proccesing](https://github.com/mebauer/data-analysis-using-python/blob/main/2-data-inspection-cleaning-wrangling.ipynb)
 
 
